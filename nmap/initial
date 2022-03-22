@@ -1,0 +1,13 @@
+# Nmap 7.92 scan initiated Fri Mar 18 12:18:59 2022 as: nmap -sS -p- -n --min-rate 5000 -vvv -oN nmap/initial 10.10.250.219
+Nmap scan report for 10.10.250.219
+Host is up, received echo-reply ttl 63 (0.045s latency).
+Scanned at 2022-03-18 12:19:00 CET for 12s
+Not shown: 65531 closed tcp ports (reset)
+PORT    STATE SERVICE      REASON
+21/tcp  open  ftp          syn-ack ttl 63
+22/tcp  open  ssh          syn-ack ttl 63
+139/tcp open  netbios-ssn  syn-ack ttl 63
+445/tcp open  microsoft-ds syn-ack ttl 63
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Fri Mar 18 12:19:12 2022 -- 1 IP address (1 host up) scanned in 12.86 seconds
