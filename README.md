@@ -1,4 +1,4 @@
-# Anonymous Writeup
+# Anonymous Writeup (Tryhackme) by [yag1n3](https://github.com/yaguine)
 
 ### room tags
 * security
